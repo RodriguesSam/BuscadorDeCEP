@@ -1,0 +1,35 @@
+[
+  {
+    "cep": "13061-123",
+    "logradouro": "Rua Silva Jardim",
+    "bairro": "Jardim García",
+    "localidade": "Campinas",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ddd": "19",
+    "erro": false
+  },
+  {
+    "cep": "13088-724",
+    "logradouro": "Rua Ipê de Jardim",
+    "bairro": "Núcleo Residencial Gênesis",
+    "localidade": "Campinas",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ddd": "19",
+    "erro": false
+  },
+  {
+    "cep": "13053-235",
+    "logradouro": "Rua Raul Tavares Jardim",
+    "bairro": "Vila Palmeiras I",
+    "localidade": "Campinas",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ddd": "19",
+    "erro": false
+  }
+]
