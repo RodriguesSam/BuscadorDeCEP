@@ -83,7 +83,7 @@ Rio de Janeiro
 ```
 #
 - ### Nenhum resultado encontrado
-Caso a pesquisa não retorne resultados, a uma mensagem será exibida e o programa retornará ao menu:
+Caso a pesquisa não retorne resultados, uma mensagem será exibida e o programa retornará ao menu:
 ```
 Digite o CEP:
 78945612
